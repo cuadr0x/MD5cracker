@@ -1,6 +1,6 @@
 # MD5cracker
 
-Python script for bruteforcing MD5 hashes
+Python to bruteforcing MD5 hashes
 
 ## Usage
 ```
